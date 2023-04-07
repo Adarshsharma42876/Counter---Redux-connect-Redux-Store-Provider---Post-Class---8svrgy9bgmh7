@@ -16,4 +16,4 @@ const mapDispatchToProps = (dispatch) => {
 };
 
 // add code here
-connect(mapStateToProps, mapDispatchToProps)(Counter)
+connect(mapStateToProps, mapDispatchToProps)(Counter);
